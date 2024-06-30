@@ -1,0 +1,42 @@
+Need median by state or zip
+
+housing & rental price
+https://www.zillow.com/research/data/
+
+
+
+interest rate
+https://fred.stlouisfed.org/series/FEDFUNDS
+
+personal annual income by state
+https://fred.stlouisfed.org/release/tables?rid=249&eid=259515&od=2021-01-01#
+
+
+
+
+Consumer Price Index for All Urban Consumers (CPI-U)
+https://data.bls.gov/timeseries/CUUR0000SA0?years_option=all_years
+Calc inflation rate from CPI
+
+population and unemployment rate by state monthly
+https://www.bls.gov/lau/rdscnp16.htm
+https://www.bls.gov/web/laus/ststdsadata.txt
+
+
+
+
+
+
+all kinds of prices
+https://www.bls.gov/data/#prices
+
+
+
+room
+size
+built year
+location (zip)
+
+
+supply & demand
+new construction
